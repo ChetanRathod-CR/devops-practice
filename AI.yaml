@@ -1,0 +1,4 @@
+ai:
+  model: random
+  version: 1.0
+  description: Random AI configuration
